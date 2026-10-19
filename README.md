@@ -33,6 +33,8 @@
 
 ## 快速上手 (Quick Start)
 
+教程视频：https://b23.tv/fCF47UN
+
 **1. 绑定模型**
 - 在窗口上方指定 **源模型**（提供颜色的模型，如头发）和 **目标模型**（接收颜色的模型，如兽耳）。
 - 也可以直接在 Hierarchy 中选中物体，点击“从选中获取”。
@@ -69,3 +71,5 @@
 
 - **GitHub**：[https://github.com/Ninsterrrr/NoNlab-](https://github.com/Ninsterrrr/NoNlab-)
 - **Booth**:[https://ninster.booth.pm](https://ninster.booth.pm)
+- 教程视频：https://b23.tv/fCF47UN
+- 纯自学非专业，若有问题欢迎指出，但请不要骂我(QAQ)
